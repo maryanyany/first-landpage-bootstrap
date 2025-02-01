@@ -1,0 +1,15 @@
+:root,
+ [data-bs-theme=light]
+ {
+    /* para trocar a cor do
+    bg-black, descobrimos que
+    essa classe utiliza essa
+    varíavel de cor em rgb
+    para efinir */
+    
+ /*   --bs-black-rgb: 255, 99, 71; */
+
+ /* --bg-primary: #0C2C4B;
+    --bg-secondary: #130055;*/
+    
+}
